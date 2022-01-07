@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @valeriapezzino
-- 👀 I’m interested in business creation, technology, psychology, fitness, nutrition, language learning, and emerging economies (especially Latin America)
+- 👋 Hi, I’m @valeriapezzino (aka @idiosyncraticdoll on other platforms)
+- 👀 I’m interested in game development, graphic design, psychology, fitness & nutrition
 - 🌱 I’m currently learning JavaScript and UX/UI
 - 💞️ I’m looking to collaborate on creative projects about fitness, nutrition, or educational products
 - 📫 Contact me @ valeriapezzino@gmail.com
